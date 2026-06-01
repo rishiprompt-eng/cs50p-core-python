@@ -4,3 +4,4 @@ def main():
 
     print(convert())
 main()
+submit50 cs50/problems/2022/python/faces

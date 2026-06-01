@@ -1,1 +1,1 @@
-a = input("enter text: ")
+a = input("enter text: ").lower().strip().

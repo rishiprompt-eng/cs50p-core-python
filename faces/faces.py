@@ -1,6 +1,7 @@
 def convert():
-    return text.replace(":)", "🙂").replace(":(", "🙁")
+        return input("enter text: ").replace(":)", "🙂").replace(":(", "🙁")
 def main():
-    text = input("enter text: ")
+    x = input("enter text: ")
 
-convert()
+print(convert())
+main()

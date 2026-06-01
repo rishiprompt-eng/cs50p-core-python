@@ -1,6 +1,6 @@
 def convert():
-    emotes = input("enter text: ").replace(":)", "🙂").replace(":(", "🙁")
+    return text.replace(":)", "🙂").replace(":(", "🙁")
 def main():
-        print(convert)
+    text = input("enter text: ")
 
 convert()
